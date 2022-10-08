@@ -1,0 +1,21 @@
+.same {
+    background-color: rgb(253, 163, 180);
+    font-family: "Verdana", "DejaDejaVu Sans", "sans-serif";
+}
+
+#first {
+    color: blue;
+    font-size: 36px;
+    background-color: white;
+    font-weight: 500;
+}
+
+#diff {
+    font-size: 24px;
+}
+
+#second {
+    background-color: springgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
